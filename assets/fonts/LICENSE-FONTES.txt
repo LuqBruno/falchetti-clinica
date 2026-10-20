@@ -1,0 +1,1 @@
+Fontes em assets/fonts: Bricolage Grotesque e Geist. Licença SIL Open Font License 1.1, obtidas dos pacotes npm @fontsource e auto-hospedadas.
